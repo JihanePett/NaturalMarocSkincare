@@ -1,39 +1,69 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+**PROJECT'S NAME**
 
-Welcome USER_NAME,
+  **Natural Maroc Skincare**
+Natural Maroc Skincare is an online shop focused mainly on selling Non-toxic, 
+100% organic skincare based essentially on Argan oil.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+This project is based on my knowledge of Argan oil and on the fact that 
+I have created a range of products that I want to sell online.
+Argan oil is deemed to be the **GOLDEN OIL**, its uniqueness, rarety (as only found in Morocco) combined by
+its incredible properties makes it a must-sought after product.
 
-## Gitpod Reminders
+**My main goal is to**
+  
+  * Empower women (as the collection of Argan oil are made only by Moroccan women), 
+  * Raise awareness of these unique argan oil based products. 
+     **  As a matter of fact, Argan oil has been overly used by the big companies, 
+        as a promotional mean to sell more products, and often when you check these products' labels, 
+        their Argan oil content reaches <1% of the overall ingredients.
+  * Generate revenue
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+___The users' benefits are of health and beauty__
 
-`python3 -m http.server`
+**UX**
 
-A blue button should appear to click: *Make Public*,
+  **Content strategy**
 
-Another blue button should appear to click: *Open Browser*.
+  * catchy and trendy
+  * use of large images and logo
+  * Design should stand out
+  * Following the 3 minimum steps between the Buy Now and payment
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+  **Target Audience**
 
-A blue button should appear to click: *Make Public*,
+Internet shoppers weary of their skincare and focused on natural products with no added toxicity.
 
-Another blue button should appear to click: *Open Browser*.
+The 'Shop' section of our menu will provide 2 options: 
+  * All Argan
+  * Moroccan Soap
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+Which will direct the users straight away to a purchase products page where each products are described separately
+with a glam picture and a BUY NOW button. we also provide the users with the choice to check the ingredients.
 
-## Updates Since The Instructional Video
+  **WIREFRAMES**
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+**FEATURES**
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+  * User-friendly/Mobile-friendly
+  * Simplicity
+    * __3 steps BUY NOW__: allows the users to purchase a product quickly and at anytime 
+    * __Social Media Integration__ (Facebook, Instagram, Linkedin): allows the users to see the products and relate to other customers
+    * __Contact Page__: allows the users to contact the company at anytime if there is any questions.
+    * __High resolution pictures__: to give the users the best experience when seeing the products in a beautiful render
+    * __Special Offer__: Mother's day special offer, to give the user the change to buy a unique bundled product as a present for Mother's day.
+    * __Clear set of policies, return&FAQ__: to give the users extra clarity as per where the products come from
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+**FEATURES FOR THE FUTURE**
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+  * __Payment Method__: to give the users different purchasing capabilities
+  * __Membership Capabilities__: To give the users the ability to purchase monthly, and receive discounts on future purchase
+  * __Customer support__: to set up a chat box so to help the user answer any questions live
 
---------
+**TECHNOLOGY USED**
 
-Happy coding!
+* HTML
+* css
+* Balsamique WIREFRAMES
+* Bootstrap 4
+* Java script
