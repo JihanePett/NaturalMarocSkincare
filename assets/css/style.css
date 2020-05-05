@@ -89,8 +89,13 @@ body {
 .dropdown-menu a:hover {
   background-color: rgba(247, 243, 18, 0.88);
   color: #1a1919;
+  margin-bottom: 10px;
 }
 
+.dropdown-menu a:focus {
+  background-color: rgba(247, 243, 18, 0.88);
+  color: #1a1919;
+}
 /*----------------------------------------------------Jumbotron*/
 
 .container-fluid {
@@ -128,6 +133,7 @@ body {
     border: rgba(247, 243, 18, 0.88)
 }
 
+
 /*----------------------------------------------------Special Offers*/
 
 .special-offer{
@@ -156,6 +162,8 @@ a.btn.disabled, fieldset:disabled a.btn {
     border: rgba(247, 243, 18, 0.6);
     color: #1a1919;
 }
+
+/*----------------------------------------------------Products Cards*/
 
 /*----------------------------------------------------Footer*/
 footer {
