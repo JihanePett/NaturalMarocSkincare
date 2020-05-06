@@ -206,36 +206,49 @@ footer{
   color: rgba(247, 243, 18, 0.88);
 }
 
-/*----------------------------------------------------Products Cards*/
-.card-header{
-    background-color: rgba(247, 243, 18, 0.6)
-}
-
-.card {
-    font-family: "Roboto", sans-serif;
-    color: #1a1919; 
-    display: inline-block;
-}
-
-.card-title {
-  margin-top: 10px;
-}
-
-#content ul li a, #content2 ul li a {
-  margin-right: 20px;
-  letter-spacing: 1px;
-  color: #1a1919;
-
-}
-
-.nav-tabs {
-  border-bottom: none;
-  margin: 10px 20px 10px;
-  font-weight: 200;
-
 /*----------------------------------------------------Media*/
 @media (hover: none) {
   .navbar-light .navbar-nav .nav-link:hover {
     border-bottom: 0;
   }
 }
+
+/*----------------------------------------------------Products Cards*/
+.card-header{
+    background-color: rgba(247, 243, 18, 0.6);
+    border-color: rgba(247, 243, 18, 0.6);
+}
+
+.card {
+    font-family: "Roboto", sans-serif;
+    color: #1a1919;
+    border-color: rgba(247, 243, 18, 0.6);
+    display: inline-block;
+
+}
+
+.card-title {
+  margin-top: 10px;
+}
+
+.card-img-top{
+  border-radius: 0;
+}
+
+#content, #content2, #content3{
+    font-weight: 200;
+    color: #1a1919;
+}
+
+#content ul li a, #content2 ul li a, #content3 ul li a{
+  margin-right: 20px;
+  letter-spacing: 1px;
+  color: #1a1919;
+}
+
+.nav-tabs {
+  border-bottom: none;
+  margin: 10px 20px 10px;
+  font-weight: 200;
+}
+
