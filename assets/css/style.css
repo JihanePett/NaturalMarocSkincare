@@ -161,37 +161,9 @@ fieldset:disabled a.btn {
   border: rgba(247, 243, 18, 0.6);
   color: #1a1919;
 }
-
-/*----------------------------------------------------Products Cards*/
-.card {
-    font-family: "Roboto", sans-serif;
-    color: #1a1919; 
-    display: inline-block;
-}
-
-.card-title {
-  margin-top: 10px;
-}
-
-#content ul li a, #content2 ul li a {
-  margin-right: 20px;
-  letter-spacing: 1px;
-  color: #1a1919;
-}
-
-.nav-tabs {
-  border-bottom: none;
-  margin-left: 20px;
-  font-weight: 200;
- }
-
-.card-img-top{
-    margin-top: 10px;
-    border-radius: 0;
-}
-
+ 
 /*----------------------------------------------------Footer*/
-footer {
+footer{
   bottom: 0;
   min-height: 30px;
   margin: 0;
@@ -233,6 +205,33 @@ footer {
 .social li a i:hover {
   color: rgba(247, 243, 18, 0.88);
 }
+
+/*----------------------------------------------------Products Cards*/
+.card-header{
+    background-color: rgba(247, 243, 18, 0.6)
+}
+
+.card {
+    font-family: "Roboto", sans-serif;
+    color: #1a1919; 
+    display: inline-block;
+}
+
+.card-title {
+  margin-top: 10px;
+}
+
+#content ul li a, #content2 ul li a {
+  margin-right: 20px;
+  letter-spacing: 1px;
+  color: #1a1919;
+
+}
+
+.nav-tabs {
+  border-bottom: none;
+  margin: 10px 20px 10px;
+  font-weight: 200;
 
 /*----------------------------------------------------Media*/
 @media (hover: none) {
