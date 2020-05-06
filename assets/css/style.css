@@ -252,3 +252,8 @@ footer{
   font-weight: 200;
 }
 
+.quote{
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-align: center;
+}
